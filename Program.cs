@@ -15,4 +15,7 @@
         double distancia_km =  distancia / 1000;
         Console.WriteLine($"La distancia recorrida es: {distancia_km} kilometros");
 
+        double distancia_ll =  distancia / 1093.61;
+        Console.WriteLine($"La distancia recorrida es: {distancia_ll} yardas");
+
 
